@@ -1,4 +1,4 @@
-Iniciando clases de programación
+segunda  clases de programación
 
 comandos:
 gi init
